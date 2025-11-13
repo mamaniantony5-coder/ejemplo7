@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background: url(../img/fondo.jpg);
     background-size: 100%;
 }
@@ -11,6 +12,7 @@ main{
     display: inline-flex;
 }
 h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: rgba(255, 255, 255, 0.171);
     width: 350px;
     height: 180px;
@@ -23,7 +25,7 @@ h1{
 .cuadro{
     background: rgba(145, 145, 145, 0.432);
     width: 100px;
-    color: aliceblue;
+    color: rgb(186, 204, 219);
     height: 180px;
     overflow: hidden;
 }
